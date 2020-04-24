@@ -1,5 +1,5 @@
 # covid19-shield-rc3_CCmod
-Eine angepasste Version des original Prusa-RC3 Gesichtsschild-Bügel. Der Vorteil liegt in der guten Stapelbarkeit durch spitz zulaufenden Unterkanten.
+Eine angepasste Version des original Prusa-RC3 Gesichtsschild-Bügel. Der Vorteil liegt in der guten Stapelbarkeit durch eine spitz zulaufenden Unterkanten.
 
 ## Dateien
 Es sind drei Dateien vorhanden:
@@ -10,10 +10,10 @@ Es sind drei Dateien vorhanden:
 Gegenüber des original Prusa RC3 Bügels wurden ein paar Anpassungen gemacht.
 - Modifikation der Höhe:
 
-Der modifizierte Bügel ist 16,5mm statt 20mm hoch. Die Höhe ist immer noch komfortabel aber reduziert die Druckzeit.
+Der modifizierte Bügel ist 16,2mm statt 20mm hoch. Die Höhe ist immer noch komfortabel aber reduziert die Druckzeit.
 - Entfernen des Logos:
 
-Das Drucken einer Schrift oder Gravur erhöht die Anforderungen an den Drucker und erhöht auch die Druckzeit etwas. Daher wurde jegliches logo entfernt
+Das Drucken einer Schrift oder Gravur erhöht die Anforderungen an den Drucker und erhöht auch die Druckzeit etwas. Daher wurde jegliches Logo entfernt
 - Fasen
 
 Fasen an Ober- und Unterkante erhöhen die Ergebnisqualität. Die Fase an der Oberkante ist ebenfalls für die "Sollbruchstelle" bei gestapelten Modellen zuständig
@@ -21,16 +21,16 @@ Fasen an Ober- und Unterkante erhöhen die Ergebnisqualität. Die Fase an der Ob
 
 <img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/shield-connector.jpg?raw=true" width=640px>
 
-Die Nippel zum Einhängen der Lochfolie wurden nach unten hin gefast. Dadurch können acuh gestapelte Versionen ohne Stützstruktur gedruckt werden
+Die Nippel zum Einhängen der Lochfolie wurden nach unten hin gefast. Dadurch können auch gestapelte Versionen ohne Stützstruktur gedruckt werden
 
 
 ### 2. Das Verbidungselement
 <img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/stack-connector.jpg?raw=true" width=640px>
 
-Ein zusätzliches Verbindungselement liegt bei, damit die Bügel bei einer Druckschichthöhe von 0,3mm gut gestapelt werden können. Dieses Verbdindungselement kann immer direkt auf die Oberkante eines Bügels gelegt werden und das nächste Modell direkt drüber gesetzt werden. Das "Spitz-Zulaufen" erreicht an der dünnsten Stelle 0,5mm Stärke was eine durchschnittliche Breite einer einzigen 3D-Druckbahn entspricht. Damit sind die gestapelten Bügel nur durch eine Bahn miteinander verbunden. Funktioniert bei meinen Tests bisher sehr gut.
+Ein zusätzliches Verbindungselement liegt bei, damit die Bügel bei einer Druckschichthöhe von 0,3mm gut gestapelt werden können. Dieses Verbdindungselement kann immer direkt auf die Oberkante eines Bügels gelegt werden und das nächste Modell direkt drüber gesetzt werden. Das "Spitz-Zulaufen" erreicht an der dünnsten Stelle 0,5mm Stärke was eine durchschnittliche Breite einer einzigen 3D-Druckbahn entspricht. Damit sind die gestapelten Bügel nur durch eine Bahn miteinander verbunden. Funktioniert bei meinen Tests bisher sehr gut. Die Höhe von 1,8mm ist dem geschuldet, dass die Schräge nicht zu steil sein darf für ein Stützstruktur-freies Drucken.
 
 ### 3. Eine fertige Stapelversion
-Eine fertige Stapelversion ist auch beigelegt. Hier sind 8 Bügel aufeinandergestapelt.
+Eine fertige Stapelversion ist auch beigelegt. Hier sind 8 Bügel aufeinandergestapelt. Die Bügel sind 16,2mm, das Verbindungselement 1,8mm. Zusammen wiederholen sie sich also jede 18mm.
 
 <img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/shield-stack.jpg?raw=true" width=640px>
 
