@@ -5,7 +5,8 @@ Eine angepasste Version des original Prusa-RC3 Gesichtsschild-Bügel. Der Vortei
 Es sind drei Dateien vorhanden:
 
 ### 1. Der modifizierte Bügel
-<img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/overall-View.jpg?raw=true" width=320px>
+<img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/overall-View.jpg?raw=true" width=640px>
+
 Gegenüber des original Prusa RC3 Bügels wurden ein paar Anpassungen gemacht.
 - Modifikation der Höhe:
 Der modifizierte Bügel ist 16,5mm statt 20mm hoch. Die Höhe ist immer noch komfortabel aber reduziert die Druckzeit.
@@ -14,6 +15,8 @@ Das Drucken einer Schrift oder Gravur erhöht die Anforderungen an den Drucker u
 - Fasen
 Fasen an Ober- und Unterkante erhöhen die Ergebnisqualität. Die Fase an der Oberkante ist ebenfalls für die "Sollbruchstelle" bei gestapelten Modellen zuständig
 - Drucken ohne Stützen
+<img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/shield-connector.jpg?raw=true" width=640px>
+
 Die Nippel zum Einhängen der Lochfolie wurden nach unten hin gefast. Dadurch können acuh gestapelte Versionen ohne Stützstruktur gedruckt werden
 
 
@@ -22,6 +25,9 @@ Ein zusätzliches Verbindungselement liegt bei, damit die Bügel bei einer Druck
 
 ### 3. Eine fertige Stapelversion
 Eine fertige Stapelversion ist auch beigelegt. Hier sind 8 Bügel aufeinandergestapelt.
+<img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/shield-stack.jpg?raw=true" width=640px>
+
+
 
 
 
