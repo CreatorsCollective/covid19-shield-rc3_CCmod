@@ -5,7 +5,8 @@ Eine angepasste Version des original Prusa-RC3 Gesichtsschild-Bügel. Der Vortei
 Es sind drei Dateien vorhanden:
 
 ### 1. Der modifizierte Bügel
-Gegenüber des original Prusa RC3 Bügels wurden ein paar Anpassungen gemacht. Changelog:
+<img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/overall-View.jpg?raw=true" width=320px>
+Gegenüber des original Prusa RC3 Bügels wurden ein paar Anpassungen gemacht.
 - Modifikation der Höhe:
 Der modifizierte Bügel ist 16,5mm statt 20mm hoch. Die Höhe ist immer noch komfortabel aber reduziert die Druckzeit.
 - Entfernen des Logos
