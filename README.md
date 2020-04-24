@@ -5,7 +5,7 @@ Eine angepasste Version des original Prusa-RC3 Gesichtsschild-Bügel. Der Vortei
 ## 1. Der modifizierte Bügel
 Gegenüber des original Prusa RC3 Bügels wurden ein paar Anpassungen gemacht. Changelog:
 - Modifikation der Höhe:
-Der modifizierte Bügel ist 16mm statt 20mm hoch. Die Höhe ist immer noch komfortabel aber reduziert die Druckzeit.
+Der modifizierte Bügel ist 16,5mm statt 20mm hoch. Die Höhe ist immer noch komfortabel aber reduziert die Druckzeit.
 - Entfernen des Logos
 Das Drucken einer Schrift oder Gravur erhöht die Anforderungen an den Drucker und erhöht auch die Druckzeit etwas. Daher wurde jegliches logo entfernt
 - Fasen
@@ -19,3 +19,10 @@ Ein zusätzliches Verbindungselement liegt bei, damit die Bügel bei einer Druck
 
 ## 3. Eine fertige Stapelversion
 Eine fertige Stapelversion ist auch beigelegt. Hier sind 8 Bügel aufeinandergestapelt.
+
+
+
+## Wichtige Hinweise
+Das Modell funktioniert vor allem mit folgenden Druckparameter:
+- Schichthöhe: 0,3mm (Wichtig, da sonst die Verbindungen auf der falschen Schicht beginnen und damit die Sollbruchstelle nicht gewährleistet ist)
+- infill: 10-15% reicht
