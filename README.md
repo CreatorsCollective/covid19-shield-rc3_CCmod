@@ -29,4 +29,7 @@ Das Modell funktioniert vor allem mit folgenden Druckparameter:
 - Schichthöhe: 0,3mm (Wichtig, da sonst die Verbindungen auf der falschen Schicht beginnen und damit die Sollbruchstelle nicht gewährleistet ist)
 - infill: 10-15% reicht
 
-Darüber hinaus kann auch ich keine Gewährleistung für die Funktion geben. Das Nutzen geschieht auf eigene Gefahr und nach eigenem Ermessen. Das 3D-Modell kann nach Belieben verändern und genutzt werden. NICHT FÜR KOMMERZIELLE ZWECKE! Siehe license.txt
+Darüber hinaus kann auch ich keine Gewährleistung für die Funktion geben. Das Nutzen geschieht auf eigene Gefahr und nach eigenem Ermessen. 
+
+Das 3D-Modell kann nach Belieben verändern und genutzt werden. Der Entwurf steht unter Lizenz: [Creative Commons (4.0 International License)](https://creativecommons.org/licenses/by-nc/4.0/)
+Die Original-Datei Prusa RC3 stammt von [PrusaResearch](https://www.prusaprinters.org/prints/25857-prusa-protective-face-shield-rc2/files)
