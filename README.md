@@ -9,12 +9,16 @@ Es sind drei Dateien vorhanden:
 
 Gegenüber des original Prusa RC3 Bügels wurden ein paar Anpassungen gemacht.
 - Modifikation der Höhe:
+
 Der modifizierte Bügel ist 16,5mm statt 20mm hoch. Die Höhe ist immer noch komfortabel aber reduziert die Druckzeit.
-- Entfernen des Logos
+- Entfernen des Logos:
+
 Das Drucken einer Schrift oder Gravur erhöht die Anforderungen an den Drucker und erhöht auch die Druckzeit etwas. Daher wurde jegliches logo entfernt
 - Fasen
+
 Fasen an Ober- und Unterkante erhöhen die Ergebnisqualität. Die Fase an der Oberkante ist ebenfalls für die "Sollbruchstelle" bei gestapelten Modellen zuständig
 - Drucken ohne Stützen
+
 <img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/shield-connector.jpg?raw=true" width=640px>
 
 Die Nippel zum Einhängen der Lochfolie wurden nach unten hin gefast. Dadurch können acuh gestapelte Versionen ohne Stützstruktur gedruckt werden
