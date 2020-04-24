@@ -36,6 +36,7 @@ Eine fertige Stapelversion ist auch beigelegt. Hier sind 8 Bügel aufeinanderges
 
 ## Ablösen der gestapelten Modelle
 Am einfachsten lassen sich die gestapelten Modelle durch kleine Einschnitte ermöglichen, wie es in den folgenden Abbildungen gezeigt ist.
+
 <img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/Cutting.jpg?raw=true" width=1000px>
 <img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/Pulling.jpg?raw=true" width=1000px>
 
