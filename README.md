@@ -21,6 +21,8 @@ Die Nippel zum Einhängen der Lochfolie wurden nach unten hin gefast. Dadurch k�
 
 
 ### 2. Das Verbidungselement
+<img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/stack-connector.jpg?raw=true" width=640px>
+
 Ein zusätzliches Verbindungselement liegt bei, damit die Bügel bei einer Druckschichthöhe von 0,3mm gut gestapelt werden kann. Diese Verbdindungselement kann immer direkt auf die Oberkante eines Bügels gelegt werden und das nächste Modell direkt drüber gesetzt werden. Das "Spitz-Zulaufen" erreicht an der dünnsten Stelle 0,5mm Stärke was eine durchschnittliche Breite einer einzigen 3D-Druckbahn entspricht. Damit sind die gestapelten Bügel nur durch eine Bahn miteinander verbunden. Funktioniert bei meinen Tests bisher sehr gut.
 
 ### 3. Eine fertige Stapelversion
