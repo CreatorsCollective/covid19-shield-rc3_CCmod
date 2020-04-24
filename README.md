@@ -31,6 +31,7 @@ Ein zusätzliches Verbindungselement liegt bei, damit die Bügel bei einer Druck
 
 ### 3. Eine fertige Stapelversion
 Eine fertige Stapelversion ist auch beigelegt. Hier sind 8 Bügel aufeinandergestapelt.
+
 <img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/shield-stack.jpg?raw=true" width=640px>
 
 
